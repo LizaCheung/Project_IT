@@ -1,0 +1,215 @@
+﻿.ax_default {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+.image {
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.heading_1 {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.text_link {
+  font-family:'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue';
+  font-weight:200;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.line {
+}
+.arrow {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.snapshot {
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.sticky_3 {
+  text-align:left;
+}
+.flow_shape_green {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.icon {
+}
+._图片 {
+}
+.radio_button {
+  text-align:left;
+}
+.connector {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#999999;
+  text-align:center;
+  line-height:normal;
+}
+.shape {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.image1 {
+  color:#000000;
+}
+.tree_node {
+  text-align:left;
+}
+._文本段落 {
+  font-family:'IaxureTBG';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:center;
+}
+.table_cell {
+}
+.new_style {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#0000FF;
+  text-align:center;
+  line-height:normal;
+}
+.mobile_footer_link {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  color:#CCCCCC;
+}
+.flow_style {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+.flow_shape_description {
+  font-family:'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue';
+  font-weight:200;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.flow_link {
+  font-family:'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'Helvetica Neue';
+  font-weight:200;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.flow_shape {
+}
+.shape1 {
+  font-family:'Quicksand', 'helvetica';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
